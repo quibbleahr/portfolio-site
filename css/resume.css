@@ -136,7 +136,7 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
+  max-width: 90rem;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -196,8 +196,6 @@ a:hover, a:focus, a:active {
 #ubc-logo {
   width: 10rem;
   height: 10rem;
-  min-width: 1rem;
-  min-height: 1rem;
 }
 
 .project-logos {
@@ -302,4 +300,37 @@ a:hover, a:focus, a:active {
 	width: 58px;
 	height: 130px;
 	transition: height .15s ease .45s;
+}
+
+.butler-tech-logos {
+  width: 64px;
+  height: 64px;
+  align-content: center;
+  justify-content: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  vertical-align: bottom;
+  line-height: 1.2;
+}
+
+.tic-tac-toe-logo {
+  width: 45px;
+  height: 45px;
+}
+
+.project-type {
+  margin-top: 1rem;
+}
+
+.ubc-section {
+  margin-right: 20rem;
+}
+
+.awards {
+  margin-left: 0.5rem;
+}
+
+.events {
+  margin-left: 1.2rem;
+  padding-right: 50rem;;
 }
